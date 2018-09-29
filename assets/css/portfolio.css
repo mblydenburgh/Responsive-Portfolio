@@ -54,4 +54,8 @@
         text-align: center;
         margin: 30px 72.5px 30px 72.5px;
     }
+
+    .card-title{
+        margin-top: 230px;
+    }
 }
