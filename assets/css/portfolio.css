@@ -1,3 +1,7 @@
+a{
+    color: white;
+}
+
 .card{
     width: 275px;
     height: 200px;
@@ -15,8 +19,9 @@
 }
 
 #card1{
-    background-image: url('https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?cs=srgb&dl=business-charts-commerce-265087.jpg&fm=jpg');
+    background-image: url('../images/guess.PNG');
     background-size: cover;
+    background-position: center;
 }
 
 #card2{
